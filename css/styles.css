@@ -1,0 +1,28 @@
+body
+{
+  background-color: #EAF6F6;
+}
+
+hr {
+  background-color: WHITE;
+  border-style: dotted none none;
+  border-top-style: dotted;
+  border-top-color: grey;
+  border-width: 10px;
+  width: 5%;
+   }
+h1{
+  color: #66BFBF;
+}
+h3{
+  color: #66BFBF;
+}
+p{
+  color: grey;
+}
+table{
+  color: orange;
+}
+a{
+  color: red;
+}
